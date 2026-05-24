@@ -12,7 +12,7 @@ Created correlation heatmaps, distribution plots, boxplots, and trend visualizat
 Designed optimized SQL Queries for patient segmentation and diabetes analysis
 Built interactive Power BI Dashboards and Tableau Reports
 Generated actionable healthcare insights for risk detection and reporting
-Implemented KPI reporting and dynamic analytical visualizations
+Implemented KPI reporting and dynamic analytical visualizations.
 
 
 # Tech Stack
@@ -26,7 +26,7 @@ Google Colab
 Pandas
 NumPy
 Matplotlib
-Seaborn
+Seaborn.
 
 # Tools & Technologies Used
 
@@ -50,7 +50,7 @@ MySQL
 Complex SQL Queries
 Data Extraction
 Data Aggregation
-Data Transformation
+Data Transformation.
 
 # Dashboard Insights
 
@@ -59,7 +59,7 @@ Patient segmentation and risk categorization
 Age-wise diabetes trend analysis
 Correlation analysis between healthcare attributes
 KPI metrics and healthcare reporting dashboards
-Interactive charts and analytical visualizations
+Interactive charts and analytical visualizations.
 
 # Project Workflow
 Data Collection
@@ -69,7 +69,7 @@ Exploratory Data Analysis (EDA)
 Statistical Visualization
 SQL Analytics & Reporting
 Dashboard Development
-Insight Generation
+Insight Generation.
 
 # Project Outcome
 
